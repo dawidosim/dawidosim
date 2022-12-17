@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dawidosim
 - 👀 I’m interested in understading overwhelming programming world 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some start-ups to get knowledge and hands-on experience
 
 <!---
